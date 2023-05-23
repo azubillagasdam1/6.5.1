@@ -26,6 +26,7 @@ public class BatallaDeCarrosDeCombate extends Application {
      */
     public static void main(String[] args) {
         System.out.println("holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa(COMMIT JAGOBA)");
+        System.out.println("Contribución de Jagoba Inda");
         Logs.infoLogManager("WAZAAAAAAAAAAA(COMMIT ITALO)");
         // Inicia el programa llamando al método start
         launch(args);
