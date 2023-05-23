@@ -26,7 +26,7 @@ public class BatallaDeCarrosDeCombate extends Application {
      */
     public static void main(String[] args) {
         System.out.println("Tanques pium pium");
-        Logs.infoLogManager("Tanques pium pium");
+        Logs.infoLogManager("WAZAAAAAAAAAAA(COMMIT ITALO)");
         // Inicia el programa llamando al método start
         launch(args);
 
