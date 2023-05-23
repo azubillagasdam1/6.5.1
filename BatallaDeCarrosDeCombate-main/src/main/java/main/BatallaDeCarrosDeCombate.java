@@ -25,7 +25,7 @@ public class BatallaDeCarrosDeCombate extends Application {
      * @param args los argumentos de la línea de comandos
      */
     public static void main(String[] args) {
-        System.out.println("Tanques pium pium");
+        System.out.println("holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa(COMMIT JAGOBA)");
         Logs.infoLogManager("WAZAAAAAAAAAAA(COMMIT ITALO)");
         // Inicia el programa llamando al método start
         launch(args);
