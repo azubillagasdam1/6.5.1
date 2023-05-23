@@ -1,0 +1,23 @@
+.hyperlink-custom {
+    -fx-font-size: 40px;
+    -fx-text-fill: #FFC300;
+    -fx-effect: dropshadow(gaussian, black, 1, 1, 0, 0);
+    -fx-padding: 10px;
+    -fx-underline: false;
+
+}
+
+.hyperlink-custom:hover {
+    -fx-border-color: #ff5500;
+    -fx-border-width: 2px;
+    -fx-border-radius: 10px;
+}
+
+.hyperlink-custom:pressed {
+    -fx-border-color: green;
+    -fx-border-radius: 10px;
+}
+
+.hyperlink-custom:selected {
+    -fx-border-radius: 10px;
+}
